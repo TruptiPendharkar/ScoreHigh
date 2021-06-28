@@ -1,0 +1,3 @@
+# ScoreHigh
+
+Acubicalboxhastoscoreasmuchasitcanbypre-ventingit’scollisionfromtherandomlyfallingmulti-plecubicalBoxes
