@@ -64,7 +64,9 @@ def collision_check(enemy_list,player_pos):
             return True
     return False
 
-
+def printf():
+    return "method name in c to print element"
+    
 def detect_collision(player_pos,enemy_pos):
     p_x=player_pos[0]
     p_y=player_pos[1]
